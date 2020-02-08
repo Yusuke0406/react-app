@@ -21,7 +21,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://yusuke0406.github.io/react-app/",
+  "homepage": "https://Yusuke0406.github.io/react-app/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
