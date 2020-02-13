@@ -18,6 +18,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 library.add(fab, fas, far);
 
 class App extends React.Component {
+  
   render(){
     const portfolioList = [
       {
