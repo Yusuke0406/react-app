@@ -73,21 +73,6 @@ export default class Slick extends Component {
           <h2 class="slider__greet">
           Yusuke Harada
             </h2>
-            <img src="photo5.jpeg"/>
-            <div class="anime-line"></div>
-            <h2>Hello</h2>
-          </div>
-          <div class="slider">
-          <div class="slider__header">
-              <ul>
-                <li><a href="#top">Top</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#works">Works</a></li>
-              </ul>
-            </div>
-          <h2 class="slider__greet">
-          Yusuke Harada
-            </h2>
             <img src="photo6.jpeg"/>
             <div class="anime-line"></div>
             <h2>Hello</h2>

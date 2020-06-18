@@ -53,6 +53,7 @@ class App extends React.Component {
       <Intro/>
       </FadeIn.Left>
         <div class="main" id="about">
+          <img src="photo-tree.jpg" id="bgimg"/>
           <div class="main__contents">
             <h1 class="main__contents__about">About</h1>
             <div class="main__contents__left">
